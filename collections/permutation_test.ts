@@ -1,5 +1,5 @@
 import { assertEquals } from "https://deno.land/std@0.170.0/testing/asserts.ts";
-import { permutations } from "./permutation.ts";
+import { permutations } from "./permutations.ts";
 
 function permutationsTest<T>(
   input: [Array<T>],

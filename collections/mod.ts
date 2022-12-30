@@ -1,1 +1,2 @@
-export * from "./permutation.ts";
+export * from "./combinations.ts";
+export * from "./permutations.ts";
