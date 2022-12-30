@@ -7,5 +7,5 @@ My own Deno module.
 From [pax.deno.dev](http://pax.deno.dev/):
 
 ```ts
-import { permutations } from "https://pax.deno.dev/yamadayuki/deno_ext@v0.0.1/collections/mod.ts";
+import { permutations } from "https://pax.deno.dev/yamadayuki/deno_ext@0.0.2/collections/mod.ts";
 ```
